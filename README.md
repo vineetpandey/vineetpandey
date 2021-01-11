@@ -3,7 +3,7 @@
 
 ### Hi there 👋, I'm Vineet Pandey
 #### Just another Product Security Guy!
-![Just another Product Security Guy!](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Just another Product Security Guy!]
 
 I'm based out of India. Currently working with Siemens R&D. 
 Nowadays exploring cloud security broadly apart from my evergreen interest in Application Security topics. Also, doing some rough automation in security as and when need arrives. In spare time, usually indulged in solving competitive programming problems.
