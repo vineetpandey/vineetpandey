@@ -1,11 +1,9 @@
-### Hi there 👋
 [![Header](https://raw.githubusercontent.com/vineetpandey/vineetpandey/main/readme_header.PNG "Header")](https://www.linkedin.com/in/vineetpandeyalld/)
 
-### Hi there 👋, I'm Vineet Pandey
-#### Just another Product Security Guy!
-![Just another Product Security Guy!]
+### Hey folks 👋,
 
-I'm based out of India. Currently working with Siemens R&D. 
+
+My name is Vineet Pandey and I'm a Product/Application Security practitioner. I'm based out of India. Currently working with Siemens R&D. 
 Nowadays exploring cloud security broadly apart from my evergreen interest in Application Security topics. Also, doing some rough automation in security as and when need arrives. In spare time, usually indulged in solving competitive programming problems.
 
 Skills: Application Security/Penetration Testing/Secure Code Review/OSS Security/Cloud Security/DevSecOps
@@ -26,8 +24,10 @@ Skills: Application Security/Penetration Testing/Secure Code Review/OSS Security
 
 
 <!--
-Github Readme Generator -
+1. Github Readme Generator -
 https://github.com/arturssmirnovs/github-profile-readme-generator
+
+2. GitHub Profile README Header Image Generated from Canva
 -->
 
 
