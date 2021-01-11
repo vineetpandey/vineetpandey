@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Header](https://raw.githubusercontent.com/vineetpandey/vineetpandey/main/header.png "Header")](https://www.linkedin.com/in/vineetpandeyalld/)
+[![Header](https://raw.githubusercontent.com/vineetpandey/vineetpandey/main/readme_header.PNG "Header")](https://www.linkedin.com/in/vineetpandeyalld/)
 
 ### Hi there 👋, I'm Vineet Pandey
 #### Just another Product Security Guy!
