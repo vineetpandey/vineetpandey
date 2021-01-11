@@ -19,7 +19,8 @@ Skills: Application Security/Penetration Testing/Secure Code Review/OSS Security
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vineetpandey)](https://github.com/anuraghazra/github-readme-stats)                   20 X &nbsp;![GitHub stats](https://github-readme-stats.vercel.app/api?username=vineetpandey&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vineetpandey)](https://github.com/anuraghazra/github-readme-stats)                   20 * &nbsp;&emsp; ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vineetpandey&show_icons=true&count_private=true)  
+
 
 
 
