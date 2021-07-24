@@ -3,7 +3,7 @@
 ### Hey folks 👋,
 
 
-My name is Vineet Pandey and I'm a Product/Application Security practitioner. I'm based out of India. Currently working with Siemens R&D. 
+My name is Vineet Pandey. I'm a Product/Application Security practitioner, based out of India. Currently working with Siemens R&D. 
 Nowadays exploring cloud security broadly apart from my evergreen interest in Application Security topics. Also, doing some rough automation in security as and when need arrives. In spare time, usually indulged in solving competitive programming problems.
 
 Skills: Application Security/Penetration Testing/Secure Code Review/OSS Security/Cloud Security/DevSecOps
