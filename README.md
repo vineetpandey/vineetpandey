@@ -1,7 +1,8 @@
-[![Header](https://raw.githubusercontent.com/vineetpandey/vineetpandey/main/readme_header.PNG "Header")](https://www.linkedin.com/in/vineetpandeyalld/)
+<!-- [![Header](https://raw.githubusercontent.com/vineetpandey/vineetpandey/main/readme_header.PNG "Header")](https://www.linkedin.com/in/vineetpandeyalld/)
 
 ### Hey folks 👋,
-
+-->
+### Hey there👋,
 
 My name is Vineet Pandey. I'm a Product/Application Security practitioner, based out of India. Currently working with Siemens R&D. 
 Nowadays exploring cloud security broadly apart from my evergreen interest in Application Security topics. Also, doing some rough automation in security as and when need arrives. In spare time, usually indulged in solving competitive programming problems.
