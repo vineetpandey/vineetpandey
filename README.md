@@ -10,7 +10,7 @@ Nowadays exploring cloud security broadly apart from my evergreen interest in Ap
 Skills: Application Security/Penetration Testing/Secure Code Review/OSS Security/Cloud Security/DevSecOps
 
 - 🔭 I’m currently working on automating security requirements 
-- 🌱 I’m currently learning CodeQL 
+- 🌱 I’m currently exploring Variant Analysis (instances of known vulnerable code patterns) tools such as Semgrep, CodeQL, etc.
 - 👯 I’m looking to collaborate on the projects with purpose to make the world a safer place 
 - 📫 How to reach me: Email/Twitter/LinkedIn 
 
