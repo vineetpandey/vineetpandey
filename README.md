@@ -24,7 +24,7 @@ Skills: Application Security/Penetration Testing/Secure Code Review/OSS Security
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vineetpandey)](https://github.com/vineetpandey/github-readme-stats)                   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vineetpandey&show_icons=true&count_private=true)  
 
-![Vineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineetpandey&theme=dark&show_icons=true)![Vineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineetpandey&theme=dark&show_icons=true)
+![Vineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineetpandey&theme=algolia&show_icons=true)![Vineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineetpandey&theme=dark&show_icons=true)
 
 
 <!--
