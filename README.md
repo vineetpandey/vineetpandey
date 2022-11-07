@@ -15,13 +15,10 @@ Skills: Application Security/Penetration Testing/Secure Code Review/OSS Security
 - 📫 How to reach me: Email/Twitter/LinkedIn 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vineetpandey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vineetpandeyalld/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/vineetiiitalld)  
-[<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'>](https://archiveprogram.github.com/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vineetpandey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vineetpandeyalld/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/vineetiiitalld)  [<img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'>](https://archiveprogram.github.com/)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
 [![@vineetpandey's Holopin board](https://holopin.me/vineetpandey)](https://holopin.io/@vineetpandey)
-
 
 ![Vineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineetpandey&theme=algolia&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vineetpandey&theme=highcontrast&hide=TypeScript&layout=compact)
